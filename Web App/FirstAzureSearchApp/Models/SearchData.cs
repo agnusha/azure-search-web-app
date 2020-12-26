@@ -8,6 +8,6 @@ namespace FirstAzureSearchApp.Models
         public string searchText { get; set; }
 
         // The list of results.
-        public SearchResults<Hotel> resultList;
+        public SearchResults<Department> resultList;
     }
 }

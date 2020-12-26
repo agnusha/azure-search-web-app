@@ -62,7 +62,7 @@ namespace FirstAzureSearchApp.Controllers
 
             // Create a service and index client.
             _indexClient = new SearchIndexClient(new Uri(searchServiceUri), new AzureKeyCredential(queryApiKey));
-            _searchClient = _indexClient.GetSearchClient("hotels");
+            _searchClient = _indexClient.GetSearchClient("azuresql-index");
         }
 
         private async Task<ActionResult> RunQueryAsync(SearchData model)
@@ -74,13 +74,14 @@ namespace FirstAzureSearchApp.Controllers
                 IncludeTotalCount = true
             };
 
-            // Enter Hotel property names into this list so only these values will be returned.
-            // If Select is empty, all values will be returned, which can be inefficient.
-            options.Select.Add("HotelName");
-            options.Select.Add("Description");
+            // values will be returned.
+            // If Select is empty, all values will be returned
+            options.Select.Add("Name");
+            options.Select.Add("GroupName");
+            options.Select.Add("ModifiedDate");
 
-            // For efficiency, the search call should be asynchronous, so use SearchAsync rather than Search.
-            model.resultList = await _searchClient.SearchAsync<Hotel>(model.searchText, options).ConfigureAwait(false);          
+
+            model.resultList = await _searchClient.SearchAsync<Department>(model.searchText, options).ConfigureAwait(false);          
 
             // Display the results.
             return View("Index", model);
