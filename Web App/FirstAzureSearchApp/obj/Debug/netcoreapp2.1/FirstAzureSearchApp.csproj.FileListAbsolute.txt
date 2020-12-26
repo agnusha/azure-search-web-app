@@ -1,0 +1,62 @@
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.deps.json
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.runtimeconfig.json
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.runtimeconfig.dev.json
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.dll
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.pdb
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.Views.dll
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.Views.pdb
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.csprojAssemblyReference.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.AssemblyInfoInputs.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.AssemblyInfo.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorAssemblyInfo.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorAssemblyInfo.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.TagHelpers.input.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.TagHelpers.output.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorCoreGenerate.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorTargetAssemblyInfo.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorTargetAssemblyInfo.cs
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.Views.pdb
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.dll
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.pdb
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.genruntimeconfig.cache
+C:\Users\Ahniya_Staravoitava\Downloads\Create_your_first_Azure_Cognitive_Search_app\v11\1-basic-search-page\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.csproj.CopyComplete
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.deps.json
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.runtimeconfig.json
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.runtimeconfig.dev.json
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.dll
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.pdb
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.Views.dll
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\bin\Debug\netcoreapp2.1\FirstAzureSearchApp.Views.pdb
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.csprojAssemblyReference.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.AssemblyInfoInputs.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.AssemblyInfo.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.csproj.CoreCompileInputs.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorAssemblyInfo.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorAssemblyInfo.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.TagHelpers.input.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.TagHelpers.output.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorCoreGenerate.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorTargetAssemblyInfo.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.RazorTargetAssemblyInfo.cs
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.Views.pdb
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.dll
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.pdb
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.genruntimeconfig.cache
+C:\projects\AZ-mentoring\azure-search-web-app\Web App\FirstAzureSearchApp\obj\Debug\netcoreapp2.1\FirstAzureSearchApp.csproj.CopyComplete
