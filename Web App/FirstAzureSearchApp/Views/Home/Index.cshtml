@@ -30,8 +30,8 @@
             @for (var i = 0; i < results.Count; i++)
             {
                 // Display the hotel name and description.
-                @Html.TextAreaFor(m => results[i].Document.HotelName, new { @class = "box1" })
-                @Html.TextArea($"desc{i}", results[i].Document.Description, new { @class = "box2" })
+                @Html.TextAreaFor(m => results[i].Document.Name, new { @class = "box1" })
+                @Html.TextArea($"desc{i}", results[i].Document.GroupName, new { @class = "box2" })
             }
         }
     }
