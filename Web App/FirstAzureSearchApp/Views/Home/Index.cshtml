@@ -15,7 +15,7 @@
     {
         // Display the search text box, with the search icon to the right of it.
         <div class="searchBoxForm">
-            @Html.TextBoxFor(m => m.searchText, new { @class = "searchBox" }) <input class="searchBoxSubmit" type="submit" value="">
+            @Html.TextBoxFor(m => m.searchText, new { @class = "searchBox" }) <input class="searchBoxSubmit" type="submit" value="" style="">
         </div>
 
         @if (Model != null)
@@ -27,12 +27,22 @@
 
             var results = Model.resultList.GetResults().ToList();
 
-            @for (var i = 0; i < results.Count; i++)
-            {
-                // Display the hotel name and description.
-                @Html.TextAreaFor(m => results[i].Document.Name, new { @class = "box1" })
-                @Html.TextArea($"desc{i}", results[i].Document.GroupName, new { @class = "box2" })
-            }
-        }
+            <div class="d-flex">
+                <div class="row">
+
+                    @for (var i = 0; i < results.Count; i++)
+                    {
+                        <div class="card col-3 m-4" style="width: 18rem;">
+                            <div class="card-body">
+                                <h5 class="card-title">@results[i].Document.Name</h5>
+                                <h6 class="card-subtitle mb-2 text-muted">Result №@i</h6>
+                                <p class="card-text">@results[i].Document.GroupName</p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+         }
     }
 </body>
